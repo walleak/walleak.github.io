@@ -4,7 +4,7 @@
 
 { "url": "http://肥猫.com", "name": "肥猫" },
 
-{ "url": "https://tv.xn--yhqu5zs87a.top", "name": "菜妮丝 },
+{ "url": "https://tv.xn--yhqu5zs87a.top", "name": "菜妮丝" },
 
 { "url": "https://fmbox.cc", "name": "星辰" },
 
@@ -32,15 +32,15 @@
 
 { "url": "https://9xi4o.tk/0725.json", "name": "4K云盘" },
 
-{ "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json", "name": "胖虎" },
+{ "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/%E9%85%8D%E7%BD%AE/0801.json", "name": "胖虎”},
 
-{ "url": "https://raw.liucn.cc/box/m.json", "name": "liucn" },
+{ "url": "https://raw.liucn.cc/box/m.json", "名称": "liucn" },
 
 { "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json", "name": "道长" },
 
 { "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫城" },
 
-{ "url": "http://jin.锦哥哥.love", "name": "一十锦" },
+{ "url": "http://jin.锦哥哥.love", "name": "十锦" },
 
 { "url": "https://yydf.540734621.xyz/QQ/yydf2024.json", "name": "业余" },
 
@@ -50,7 +50,7 @@
 
 { "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json", "name": "黄金" },
 
-{ "url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json", "name": "PizazzGY" },
+{“url”：“https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json”，“名称”：“PizazzGY”}，
 
 { "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json", "name": "PiGY备用" },
 
