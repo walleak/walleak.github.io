@@ -1,6 +1,6 @@
 { "urls": [{ "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
 
-{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" },
+{ "url": "http://meowtv.cn/tv", "name": "喵影视" },
 
 { "url": "http://肥猫.com", "name": "肥猫1" },
 
@@ -11,6 +11,8 @@
 { "url": "https://龙伊.top", "name": "龙伊" },
 
 { "url": "https://xn--2qg-mf3g9f.v.nxog.top/m/111.php", "name": "欧歌" },
+
+{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" },
 
 { "url": "https://100km.top/0", "name": "骚零" },
 
@@ -59,6 +61,46 @@
 { "url": "http://miao.qoo.qoo.us.kg", "name": "秒播" },
 
 { "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json", "name": "黄金" },
+
+{ "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/maoystv/6/main/000.json", "name": "分享" },
+
+{ "url": "https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json", "name": "小屋" },
+
+{ "url": "https://ztha.top/TVBox/thdjk.json", "name": "挺好" },
+
+{ "url": "http://fmys.top/fmys.json", "name": "驸马" },
+
+{ "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json", "name": "蓝天" },
+
+{ "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json", "name": "非凡" },
+
+{ "url": "https://git.acwing.com/cisenyuan/kdsb/-/raw/main/%E6%B5%B7%E5%85%B5%E5%BD%B1%E8%A7%86.json", "name": "海冰" },
+
+{ "url": "https://git.acwing.com/abai/tv/-/raw/main/huas.json", "name": "花生" },
+
+{ "url": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/CJ.json", "name": "超级" },
+
+{ "url": "https://git.acwing.com/lkq0379/zjys/-/raw/main/zjys.json", "name": "剪影" },
+
+{ "url": "http://550.3vcn.work/wdjyys.json", "name": "金鹰" },
+
+{ "url": "https://cdn.githubraw.com/xuexuguang/tvbox_spider/main/tv/kk/heroaku_dtes.json", "name": "heroaku" },
+
+{ "url": "http://124.71.189.194/a.json", "name": "白龙" },
+
+{ "url": "http://39.101.135.137:8080", "name": "浪里小白龙" },
+
+{ "url": "http://39.101.135.137:8888", "name": "浪里小白龙备用" },
+
+{ "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json", "name": "影视仓Box" },
+
+{ "url": "https://git.acwing.com/shhentu/lzxw/-/raw/main/Monster.json", "name": "小屋" },
+
+{ "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json", "name": "青龙" },
+
+{ "url": "https://git.acwing.com/lw0704/66/-/raw/master/jjzx.json", "name": "刘伟" },
+
+{ "url": "http://t.lkkk.love/02.json", "name": "天命人" },
 
 { "url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json", "name": "PizazzGY" },
 
