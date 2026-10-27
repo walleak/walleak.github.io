@@ -1,54 +1,12 @@
-{ "urls": [{ "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
-
-{ "url": "http://肥猫.com/", "name": "肥猫" },
-
-{ "url": "https://毒盒.com/tv", "name": "毒盒" },
-
-{ "url": "https://tv.youdu.fan:666", "name": "毒盒2" },
-
-{ "url": "https://xn--2qg-mf3g9f.v.nxog.top/m/111.php", "name": "欧歌" },
-
-{ "url": "http://tv.nxog.top/m/", "name": "欧歌TV线路" },
-
-{ "url": "http://xn--218-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌218", "name": "欧歌218" },
+{ "urls": [{ "url": "http://xn--218-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌218", "name": "欧歌218" },
 
 { "url": "http://xn--8lo-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌8lo", "name": "欧歌8lo" },
 
-{ "url": "http://cdn.qiaoji8.com/tvbox.json", "name": "巧技" },
-
-{ "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" },
-
-{ "url": "http://tvbox.王二小放牛娃.top", "name": "王二小" },
-
-{ "url": "http://ok321.top/tv", "name": "OK屌炸天" },
-
-{ "url": "http://ok321.top/ok", "name": "OK屌炸天备用" },
-
-{ "url": "http://home.jundie.top:81/top98.json", "name": "俊哥" },
-
 { "url": "https://raw.liucn.cc/box/m.json", "name": "老刘备" },
-
-{ "url": "http://fmys.top/fmys.json", "name": "驸马" },
 
 { "url": "https://tv.xn--yhqu5zs87a.top", "name": "菜妮丝" },
 
-{ "url": "https://龙伊.top", "name": "龙伊" },
-
-{ "url": "https://6492.kstore.space/xnf/xnf.json", "name": "小脑斧" },
-
-{ "url": "https://tvbox.catvod.com/catvod.json", "name": "catvod" },
-
-{ "url": "https://tvbox.catvod.com/jsm.json", "name": "PG" },
-
-{ "url": "https://tvbox.catvod.com/FongMi.json", "name": "真心" },
-
-{ "url": "https://tvbox.catvod.com/xs/api.json", "name": "潇洒" },
-
-{ "url": "https://奇乐.xyz/ql1114.json", "name": "奇乐主" },
-
 { "url": "https://8383.kstore.space/ql1114.json", "name": "奇乐高速" },
-
-{ "url": "http://我不是.摸鱼儿.com", "name": "摸鱼" },
 
 { "url": "http://xhztv.top/xhz", "name": "聚玩盒子" },
 
@@ -56,31 +14,11 @@
 
 { "url": "https://盒子迷.top/禁止贩卖", "name": "盒子迷" },
 
-{ "url": "https://gitee.com/yiwu369/6758/raw/master/%E9%9D%92%E9%BE%99/1.json", "name": "青龙1080" },
-
-{ "url": "https://gitee.com/yiwu369/6758/raw/master/青龙/2.json", "name": "青龙2" },
-
-{ "url": "https://gitee.com/yiwu369/6758/raw/master/白虎/白虎.json", "name": "白虎" },
-
 { "url": "https://13413.kstore.space/tv/changqing.json", "name": "长青" },
-
-{ "url": "http://tv.laohu.cool/tvbox.json", "name": "老虎" },
-
-{ "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json", "name": "小苹果" },
-
-{ "url": "http://范特西.cn/tv/2025.json", "name": "范特西" },
-
-{ "url": "https://chuanshuo.77blog.cn/tv.json", "name": "传说" },
 
 { "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json", "name": "黄金" },
 
-{ "url": "https://9xi4o.tk/0725.json", "name": "4K云盘" },
-
-{ "url": "https://9xi4o.tk/tvbox.json", "name": "盐枭" },
-
 { "url": "https://ztha.top/TVBox/thdjk.json", "name": "挺好" },
-
-{ "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json", "name": "蓝天" },
 
 { "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json", "name": "非凡" },
 
@@ -92,4 +30,230 @@
 
 { "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json", "name": "影视仓Box" },
 
-{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" }]}
+{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json", "name": "东篱接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json", "name": "XYQ 接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json", "name": "宝盒接口【apkck.top】" },
+
+{ "url": "https://6800.kstore.vip/fish.json", "name": "摸鱼接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米接口【apkck.top】" },
+
+{ "url": "https://pastecode.dev/raw/7tvw3n7c/kuzis.json", "name": "裤佬接口【apkck.top】" },
+
+{ "url": "https://www.252035.xyz/z/FongMi.json", "name": "Nostr接口【apkck.top】" },
+
+{ "url": "http://xhztv.top/dc/神仙/api.json", "name": "神仙接口【apkck.top】" },
+
+{ "url": "https://play.iptv365.org/骚零/api.json", "name": "骚零接口【apkck.top】" },
+
+{ "url": "https://szyyds.cn/tv/x.json", "name": "小马接口【apkck.top】" },
+
+{ "url": "https://tv.xn--11x555b.top/svip", "name": "蜗牛接口【apkck.top】" },
+
+{ "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫1接口【apkck.top】" },
+
+{ "url": "http://xhztv.top/dc/动漫频道/api.json", "name": "动漫2接口【apkck.top】" },
+
+{ "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json", "name": "茄子接口【apkck.top】" },
+
+{ "url": "https://android.lushunming.qzz.io/json/index.json", "name": "L佬 接口【apkck.top】" },
+
+{ "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json", "name": "分享接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json", "name": "心魔接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json", "name": "雷蒙接口【apkck.top】" },
+
+{ "url": "http://www.饭太硬.net/tv", "name": "饭太硬" },
+
+{ "url": "http://www.饭太硬.art/tv", "name": "饭太硬（备用）" },
+
+{ "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
+
+{ "url": "http://肥猫.net/tv", "name": "肥猫" },
+
+{ "url": "https://9280.kstore.vip/newwex.json", "name": "王二小" },
+
+{ "url": "https://9763.kstore.vip/aowu.json", "name": "嗷呜" },
+
+{ "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
+
+{ "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json", "name": "少儿频道" },
+
+{ "url": "http://z.qiqiv.cn/666", "name": "戏曲音乐" },
+
+{ "url": "https://dxawi.github.io/0/0.json", "name": "🐹dxawi" },
+
+{ "url": "http://xn--218-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌218", "name": "欧歌218" },
+
+{ "url": "http://xn--8lo-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌8lo", "name": "欧歌8lo" },
+
+{ "url": "https://raw.liucn.cc/box/m.json", "name": "老刘备" },
+
+{ "url": "https://tv.xn--yhqu5zs87a.top", "name": "菜妮丝" },
+
+{ "url": "https://8383.kstore.space/ql1114.json", "name": "奇乐高速" },
+
+{ "url": "http://xhztv.top/xhz", "name": "聚玩盒子" },
+
+{ "url": "http://xhztv.top/4k.json", "name": "聚玩盒子4K" },
+
+{ "url": "https://盒子迷.top/禁止贩卖", "name": "盒子迷" },
+
+{ "url": "https://13413.kstore.space/tv/changqing.json", "name": "长青" },
+
+{ "url": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjys.free.json", "name": "黄金" },
+
+{ "url": "https://ztha.top/TVBox/thdjk.json", "name": "挺好" },
+
+{ "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json", "name": "非凡" },
+
+{ "url": "https://api.hgyx.vip/hgyx.json", "name": "HG线路" },
+
+{ "url": "https://ghproxy.net/https://raw.githubusercontent.com/xiaolinshao/linshao/main/1.json", "name": "小林" },
+
+{ "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json", "name": "炫猪" },
+
+{ "url": "https://jihulab.com/mengzhu2/ysc/-/raw/main/YSC.json", "name": "影视仓Box" },
+
+{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json", "name": "东篱接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json", "name": "XYQ 接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json", "name": "宝盒接口【apkck.top】" },
+
+{ "url": "https://6800.kstore.vip/fish.json", "name": "摸鱼接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米接口【apkck.top】" },
+
+{ "url": "https://pastecode.dev/raw/7tvw3n7c/kuzis.json", "name": "裤佬接口【apkck.top】" },
+
+{ "url": "https://www.252035.xyz/z/FongMi.json", "name": "Nostr接口【apkck.top】" },
+
+{ "url": "http://xhztv.top/dc/神仙/api.json", "name": "神仙接口【apkck.top】" },
+
+{ "url": "https://play.iptv365.org/骚零/api.json", "name": "骚零接口【apkck.top】" },
+
+{ "url": "https://szyyds.cn/tv/x.json", "name": "小马接口【apkck.top】" },
+
+{ "url": "https://tv.xn--11x555b.top/svip", "name": "蜗牛接口【apkck.top】" },
+
+{ "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫1接口【apkck.top】" },
+
+{ "url": "http://xhztv.top/dc/动漫频道/api.json", "name": "动漫2接口【apkck.top】" },
+
+{ "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json", "name": "茄子接口【apkck.top】" },
+
+{ "url": "https://android.lushunming.qzz.io/json/index.json", "name": "L佬 接口【apkck.top】" },
+
+{ "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json", "name": "分享接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json", "name": "心魔接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json", "name": "雷蒙接口【apkck.top】" },
+
+{ "url": "http://www.饭太硬.net/tv", "name": "饭太硬" },
+
+{ "url": "http://www.饭太硬.art/tv", "name": "饭太硬（备用）" },
+
+{ "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
+
+{ "url": "http://肥猫.net/tv", "name": "肥猫" },
+
+{ "url": "https://9280.kstore.vip/newwex.json", "name": "王二小" },
+
+{ "url": "https://9763.kstore.vip/aowu.json", "name": "嗷呜" },
+
+{ "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
+
+{ "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json", "name": "少儿频道" },
+
+{ "url": "http://z.qiqiv.cn/666", "name": "戏曲音乐" },
+
+{ "url": "https://dxawi.github.io/0/0.json", "name": "🐹dxawi" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/chitue/dongliTV/main/api.json", "name": "东篱接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json", "name": "XYQ 接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/guot55/yg/main/pg/bh.json", "name": "宝盒接口【apkck.top】" },
+
+{ "url": "https://6800.kstore.vip/fish.json", "name": "摸鱼接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米接口【apkck.top】" },
+
+{ "url": "https://pastecode.dev/raw/7tvw3n7c/kuzis.json", "name": "裤佬接口【apkck.top】" },
+
+{ "url": "https://www.252035.xyz/z/FongMi.json", "name": "Nostr接口【apkck.top】" },
+
+{ "url": "http://xhztv.top/dc/神仙/api.json", "name": "神仙接口【apkck.top】" },
+
+{ "url": "https://play.iptv365.org/骚零/api.json", "name": "骚零接口【apkck.top】" },
+
+{ "url": "https://szyyds.cn/tv/x.json", "name": "小马接口【apkck.top】" },
+
+{ "url": "https://tv.xn--11x555b.top/svip", "name": "蜗牛接口【apkck.top】" },
+
+{ "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫1接口【apkck.top】" },
+
+{ "url": "http://xhztv.top/dc/动漫频道/api.json", "name": "动漫2接口【apkck.top】" },
+
+{ "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json", "name": "茄子接口【apkck.top】" },
+
+{ "url": "https://android.lushunming.qzz.io/json/index.json", "name": "L佬 接口【apkck.top】" },
+
+{ "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json", "name": "分享接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json", "name": "心魔接口【apkck.top】" },
+
+{ "url": "https://g.blfrp.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json", "name": "雷蒙接口【apkck.top】" },
+
+{ "url": "http://www.饭太硬.net/tv", "name": "饭太硬" },
+
+{ "url": "http://www.饭太硬.art/tv", "name": "饭太硬（备用）" },
+
+{ "url": "https://gh-proxy.org/raw.githubusercontent.com/ggrrttyyiii/CatVodSpider/refs/heads/main/json/demo.json", "name": "小米" },
+
+{ "url": "http://肥猫.net/tv", "name": "肥猫" },
+
+{ "url": "https://9280.kstore.vip/newwex.json", "name": "王二小" },
+
+{ "url": "https://9763.kstore.vip/aowu.json", "name": "嗷呜" },
+
+{ "url": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/refs/heads/main/XC.json", "name": "南风" },
+
+{ "url": "https://gh-proxy.com/raw.githubusercontent.com/lubin776/0/refs/heads/main/tvbox/b2.json", "name": "少儿频道" },
+
+{ "url": "http://z.qiqiv.cn/666", "name": "戏曲音乐" },
+
+{ "url": "http://xhztv.top/xhz", "name": "聚玩盒子" },
+
+{ "url": "https://jihulab.com/xuanzhuapp/xzys/-/raw/main/xzvip.json", "name": "炫猪" },
+
+{ "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫1接口【apkck.top】" },
+
+{ "url": "https://szyyds.cn/tv/x.json", "name": "小马接口【apkck.top】" },
+
+{ "url": "https://dxawi.github.io/0/0.json", "name": "🐹dxawi" },
+
+{ "url": "https://api.hgyx.vip/hgyx.json", "name": "HG线路" },
+
+{ "url": "https://szyyds.cn/tv/x.json", "name": "小马接口【apkck.top】" }]}
