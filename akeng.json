@@ -1,7 +1,6 @@
-//以下地址全部收集自网络公开数据，一切免费，如有冒犯请联系我们删除
 {
 "storeHouse":[
-{"sourceName":"阿坑【单仓】","sourceUrl":"http://117.72.47.239:8008/akeng.txt"},
+{"sourceName":"阿坑【单仓】","sourceUrl":"http://47.110.84.132:8008/akeng.txt"},
 {"sourceName":"阿坑【备仓】","sourceUrl":"https://walleak.github.io/akeng.txt"},
 {"sourceName":"影用【单仓】","sourceUrl":"http://tv.weidonglong.com/ysc5.json"},
 {"sourceName":"匿名【单仓】","sourceUrl":"https://12586.kstore.space/123.txt"},
